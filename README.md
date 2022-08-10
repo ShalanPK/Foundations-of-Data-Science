@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShalanPK
+- 👋 Hi, I’m @Shalan
 - 👀 I’m interested in Data Science/Machine Learning Projects
 - 🌱 I’m currently learning ML with Python
 - 💞️ I’m looking to collaborate on applying ML algorithms in Banking and finance industry
